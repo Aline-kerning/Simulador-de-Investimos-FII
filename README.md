@@ -1,5 +1,6 @@
 # Simulador-de-Investimos-FII
-O **Simulador de Investimento em FII (Fundo Imobiliário)** é uma ferramenta simples, desenvolvida com Microsoft Excel para automatizar cálculos e ajudar investidores a escolherem, de acordo com o seu perfil, a melhor forma de investimento, permitindo anlisar diferentes cénarios.
+O **Simulador de Investimento em FII (Fundo Imobiliário)** é uma ferramenta simples, desenvolvida com Microsoft Excel para automatizar cálculos e ajudar investidores a escolherem, de acordo com o seu perfil, a melhor forma de investimento, permitindo analisar diferentes cénarios.
+
 Esse projeto é resultado de um desafio criado pelo instrutor Felipe Aguiar da plataforma DIO.
  
 ## Estrutura da planilha
